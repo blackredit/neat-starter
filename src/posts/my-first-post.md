@@ -45,6 +45,8 @@ tags:
    1. Item 3a
    2. Item 3b
 
+      ![](/static/img/rose-8043078.jpg)
+
 ## Links
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
